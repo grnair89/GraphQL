@@ -1,4 +1,4 @@
-# Implementation of Subgraph Isomorphism Algorithm on Neo4j Graph Database
+# Subgraph Isomorphism Algorithm on Neo4j Graph Database
 
 ## What is this?
 

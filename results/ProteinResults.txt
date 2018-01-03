@@ -1,0 +1,55 @@
+ ============================================================================
+ Sample results for Proteins dataset. Ground truth with respect given queries 
+ ============================================================================
+
+Query: mus_musculus_2LCK.16.sub.grf
+Target: backbones_1CJF.grf
+
+{0=Node[305], 1=Node[306], 2=Node[308], 3=Node[309], 4=Node[347], 5=Node[348], 6=Node[349], 7=Node[350], 8=Node[325], 9=Node[326], 10=Node[327], 11=Node[329], 12=Node[330], 13=Node[331], 14=Node[332], 15=Node[333]}
+{0=Node[396], 1=Node[397], 2=Node[399], 3=Node[400], 4=Node[435], 5=Node[436], 6=Node[437], 7=Node[438], 8=Node[411], 9=Node[412], 10=Node[413], 11=Node[415], 12=Node[416], 13=Node[418], 14=Node[420], 15=Node[419]}
+{0=Node[396], 1=Node[397], 2=Node[399], 3=Node[401], 4=Node[435], 5=Node[436], 6=Node[437], 7=Node[438], 8=Node[411], 9=Node[412], 10=Node[413], 11=Node[415], 12=Node[416], 13=Node[418], 14=Node[420], 15=Node[419]}
+{0=Node[956], 1=Node[957], 2=Node[959], 3=Node[960], 4=Node[994], 5=Node[995], 6=Node[996], 7=Node[997], 8=Node[972], 9=Node[973], 10=Node[974], 11=Node[976], 12=Node[977], 13=Node[978], 14=Node[979], 15=Node[980]}
+{0=Node[1291], 1=Node[1292], 2=Node[1294], 3=Node[1296], 4=Node[1326], 5=Node[1327], 6=Node[1328], 7=Node[1329], 8=Node[1304], 9=Node[1305], 10=Node[1306], 11=Node[1308], 12=Node[1309], 13=Node[1310], 14=Node[1311], 15=Node[1312]}
+{0=Node[1291], 1=Node[1292], 2=Node[1294], 3=Node[1296], 4=Node[1326], 5=Node[1327], 6=Node[1330], 7=Node[1331], 8=Node[1304], 9=Node[1305], 10=Node[1306], 11=Node[1308], 12=Node[1309], 13=Node[1310], 14=Node[1311], 15=Node[1312]}
+{0=Node[1484], 1=Node[1485], 2=Node[1487], 3=Node[1489], 4=Node[1519], 5=Node[1520], 6=Node[1521], 7=Node[1522], 8=Node[1497], 9=Node[1498], 10=Node[1499], 11=Node[1501], 12=Node[1502], 13=Node[1503], 14=Node[1504], 15=Node[1505]}
+{0=Node[1484], 1=Node[1485], 2=Node[1487], 3=Node[1489], 4=Node[1519], 5=Node[1520], 6=Node[1523], 7=Node[1524], 8=Node[1497], 9=Node[1498], 10=Node[1499], 11=Node[1501], 12=Node[1502], 13=Node[1503], 14=Node[1504], 15=Node[1505]}
+{0=Node[1534], 1=Node[1535], 2=Node[1537], 3=Node[1538], 4=Node[1567], 5=Node[1568], 6=Node[1569], 7=Node[1570], 8=Node[1545], 9=Node[1546], 10=Node[1547], 11=Node[1549], 12=Node[1550], 13=Node[1551], 14=Node[1552], 15=Node[1553]}
+{0=Node[1534], 1=Node[1535], 2=Node[1537], 3=Node[1538], 4=Node[1567], 5=Node[1568], 6=Node[1571], 7=Node[1572], 8=Node[1545], 9=Node[1546], 10=Node[1547], 11=Node[1549], 12=Node[1550], 13=Node[1551], 14=Node[1552], 15=Node[1553]}
+{0=Node[1809], 1=Node[1810], 2=Node[1812], 3=Node[1813], 4=Node[1844], 5=Node[1845], 6=Node[1846], 7=Node[1847], 8=Node[1822], 9=Node[1823], 10=Node[1824], 11=Node[1826], 12=Node[1827], 13=Node[1828], 14=Node[1829], 15=Node[1830]}
+{0=Node[1823], 1=Node[1824], 2=Node[1826], 3=Node[1827], 4=Node[1866], 5=Node[1867], 6=Node[1868], 7=Node[1869], 8=Node[1844], 9=Node[1845], 10=Node[1846], 11=Node[1848], 12=Node[1849], 13=Node[1850], 14=Node[1851], 15=Node[1852]}
+
+
+Query: backbones_1EMA.8.sub.grf
+Target: backbones_1CJF.grf
+
+{0=Node[635], 1=Node[636], 2=Node[639], 3=Node[640], 4=Node[641], 5=Node[642], 6=Node[643], 7=Node[649]}
+{0=Node[635], 1=Node[636], 2=Node[639], 3=Node[640], 4=Node[641], 5=Node[643], 6=Node[642], 7=Node[649]}
+{0=Node[1172], 1=Node[1173], 2=Node[1176], 3=Node[1177], 4=Node[1178], 5=Node[1179], 6=Node[1180], 7=Node[1186]}
+{0=Node[1172], 1=Node[1173], 2=Node[1176], 3=Node[1177], 4=Node[1178], 5=Node[1180], 6=Node[1179], 7=Node[1186]}
+{0=Node[1700], 1=Node[1701], 2=Node[1704], 3=Node[1705], 4=Node[1706], 5=Node[1707], 6=Node[1708], 7=Node[1714]}
+{0=Node[1700], 1=Node[1701], 2=Node[1704], 3=Node[1705], 4=Node[1706], 5=Node[1708], 6=Node[1707], 7=Node[1714]}
+{0=Node[1898], 1=Node[1899], 2=Node[1902], 3=Node[1903], 4=Node[1904], 5=Node[1905], 6=Node[1906], 7=Node[1912]}
+{0=Node[1898], 1=Node[1899], 2=Node[1902], 3=Node[1903], 4=Node[1904], 5=Node[1906], 6=Node[1905], 7=Node[1912]}
+
+
+Query: rattus_norvegicus_2KHZ.32.sub.grf
+Target: backbones_1CJF.grf
+
+{0=Node[1247], 1=Node[1248], 2=Node[1249], 3=Node[1250], 4=Node[1266], 5=Node[1267], 6=Node[1268], 7=Node[1269], 8=Node[1270], 9=Node[1271], 10=Node[1272], 11=Node[1273], 12=Node[1274], 13=Node[1275], 14=Node[1276], 15=Node[1290], 16=Node[1291], 17=Node[1292], 18=Node[1293], 19=Node[1294], 20=Node[1304], 21=Node[1305], 22=Node[1308], 23=Node[1309], 24=Node[1219], 25=Node[1220], 26=Node[1222], 27=Node[1223], 28=Node[1235], 29=Node[1236], 30=Node[1237], 31=Node[1238]}
+{0=Node[1247], 1=Node[1248], 2=Node[1249], 3=Node[1250], 4=Node[1266], 5=Node[1267], 6=Node[1268], 7=Node[1269], 8=Node[1270], 9=Node[1271], 10=Node[1272], 11=Node[1273], 12=Node[1274], 13=Node[1276], 14=Node[1275], 15=Node[1290], 16=Node[1291], 17=Node[1292], 18=Node[1293], 19=Node[1294], 20=Node[1304], 21=Node[1305], 22=Node[1308], 23=Node[1309], 24=Node[1219], 25=Node[1220], 26=Node[1222], 27=Node[1223], 28=Node[1235], 29=Node[1236], 30=Node[1237], 31=Node[1238]}
+{0=Node[1988], 1=Node[1989], 2=Node[1990], 3=Node[1991], 4=Node[2012], 5=Node[2013], 6=Node[2014], 7=Node[2015], 8=Node[2016], 9=Node[2017], 10=Node[2018], 11=Node[2019], 12=Node[2020], 13=Node[2021], 14=Node[2022], 15=Node[2036], 16=Node[2037], 17=Node[2038], 18=Node[2039], 19=Node[2040], 20=Node[2047], 21=Node[2048], 22=Node[2051], 23=Node[2052], 24=Node[1952], 25=Node[1953], 26=Node[1955], 27=Node[1956], 28=Node[1969], 29=Node[1970], 30=Node[1971], 31=Node[1972]}
+{0=Node[1988], 1=Node[1989], 2=Node[1990], 3=Node[1991], 4=Node[2012], 5=Node[2013], 6=Node[2014], 7=Node[2015], 8=Node[2016], 9=Node[2017], 10=Node[2018], 11=Node[2019], 12=Node[2020], 13=Node[2022], 14=Node[2021], 15=Node[2036], 16=Node[2037], 17=Node[2038], 18=Node[2039], 19=Node[2040], 20=Node[2047], 21=Node[2048], 22=Node[2051], 23=Node[2052], 24=Node[1952], 25=Node[1953], 26=Node[1955], 27=Node[1956], 28=Node[1969], 29=Node[1970], 30=Node[1971], 31=Node[1972]}
+
+Query: backbones_1XIC.64.sub.grf
+Target: backbones_1CJF.grf
+None
+
+Query: mus_musculus_1U34.128.sub.grf
+Target: backbones_1CJF.grf
+None
+
+Query: backbones_1EMM.256.sub.grf
+Target: backbones_1CJF.grf
+None
+
+

@@ -1,0 +1,21 @@
+ ========================================================================
+ Sample results for IGraph_human dataset. Times are shown in milliseconds
+ ========================================================================
+
+  Query No. : 0    Count Hits** 1000    Time Taken: 1452  
+  Query No. : 1    Count Hits** 1000    Time Taken: 6100  
+  Query No. : 2    Count Hits** 1000    Time Taken: 985  
+  Query No. : 3    Count Hits** 1000    Time Taken: 2200  
+  Query No. : 4    Count Hits** 1000    Time Taken: 5909  
+  Query No. : 5    Count Hits** 1000    Time Taken: 1245  
+  Query No. : 6    Count Hits** 1000    Time Taken: 37061  
+  Query No. : 7    Count Hits** 1000    Time Taken: 1282  
+  Query No. : 8    Count Hits** 1000    Time Taken: 5574  
+  Query No. : 9    Count Hits** 1000    Time Taken: 28950 
+  Query No. : 10    Count Hits** 1000    Time Taken: 2316  
+  Query No. : 11    Count Hits** 1000    Time Taken: 1478  
+  Query No. : 12    Count Hits** 1000    Time Taken: 4092  
+  Query No. : 13    Count Hits** 1000    Time Taken: 1600  
+  Query No. : 14    Count Hits** 1000    Time Taken: 2011  
+  Query No. : 15    Count Hits** 1000    Time Taken: 1748  
+  Query No. : 16    Count Hits** 1000    Time Taken: 5811  

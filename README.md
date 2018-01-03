@@ -1,4 +1,4 @@
-# GraphQL - A Subgraph Isomorphism algorithm
+# Implementation of Subgraph isomorphism algorithm and optimization techniques on Neo4j graph database
 
 ## What is this?
 
